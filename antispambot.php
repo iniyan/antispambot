@@ -3,7 +3,7 @@
 Plugin Name: AntiSpambot
 Plugin URI: http://iniyan.in/plugins/antispambot
 Description: Protect your email address from spam bots. In other words "fool the bots". With the "nospam" short code, you can use antispambot function on text widgets too.  
-Version: 1.0.0
+Version: 1.0.1
 Author: iniyan
 Author URI: http://iniyan.in
 License: GPL2
