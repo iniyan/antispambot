@@ -41,3 +41,7 @@ The output on browser will be a hyperlinked email address that can be clicked on
 
 = 1.0.0 =
 * Initial Release.
+
+
+= 1.1.0 =
+* Compatible with latest version
